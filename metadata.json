@@ -1,0 +1,9 @@
+{
+    "uuid": "reveal-launcher@geajack.github.com",
+    "name": "Reveal Launcher File",
+    "description": "Allows you to quickly find the .desktop file for any given application.",
+    "version": 1,
+    "shell-version": [
+        "3.36"
+    ]
+}
